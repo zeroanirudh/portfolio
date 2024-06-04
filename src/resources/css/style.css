@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100..800&display=swap');
+
+body {
+	font-family: 'JetBrains Mono', monospace;
+	background-image: url('../svg/graph-paper.svg');
+}
